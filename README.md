@@ -12,7 +12,7 @@ YOU WILL NEED TO TYPE IN https://mppclone.com/*
 -
 ADD A NEW RULE WITH THE CHOOSEN URL > URL
 -
-TYPE IN script.js FOR MATCH URL AND https://github.com/LaxrIsNightmare01/LAX1STCLIENT.JS/blob/main/LAX1STCLIENT.JS FOR REPLACE URL
+TYPE IN script.js FOR MATCH URL AND https://raw.githubusercontent.com/LaxrIsNightmare01/LAX1STCLIENT.JS/main/LAX1STCLIENT.JS FOR REPLACE URL
 -
 MAKE SURE ITS ON AND ENJOY KILLING MPP :SKULL:
 -----------------------------------------------------------------
