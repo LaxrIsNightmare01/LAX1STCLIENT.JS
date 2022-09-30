@@ -925,8 +925,8 @@ $(function() {
             gClient.startNote(id, vol);
         }
         
-        else {
-        console.log("<< HEAVY LAG DETECTED >> (CLIENTSIDED LAG CAN CAUSE SOME SERVERSIDED NOTES TO SKIP)")
+        if (gClient.preventsPlaying()) && gNoteQuota.spend(1)) {
+            console.log("MISSING NOTES")
         }
     }
 
