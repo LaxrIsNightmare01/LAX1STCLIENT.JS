@@ -1,5 +1,5 @@
 # LAX1STCLIENT.JS
-My 1st MPP modified client.js (INF NQ / LAG FIX GAVE BY WOLFY).
+My 1st MPP modified client.js (INF NQ BY ME / LAG FIX GAVE BY WOLFY).
 -----------------------------------------------------------------
 HOW TO USE:
 INSTALL RESSOURCE OVERRIDE (NOT OPTIONAL) >> https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii
